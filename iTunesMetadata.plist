@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Ana Elena González Treviño</string>
+	<key>book-info</key>
+	<dict>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>2BC863BE0B43CF0279160F618A4DEF66</string>
+		<key>publisher-unique-id</key>
+		<string>123-45-678-9-012-34</string>
+		<key>unique-id</key>
+		<integer>-547514310843969860</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Representación. Un dilema de la crítica, de la cueva de Platón al desierto de lo real</string>
+	<key>playlistName</key>
+	<string>Representación. Un dilema de la crítica, de la cueva de Platón al desierto de lo real</string>
+	<key>releaseDate</key>
+	<string>2013</string>
+</dict>
+</plist>

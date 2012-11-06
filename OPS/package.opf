@@ -1,0 +1,139 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">Representación. Un dilema de la crítica, de la cueva de Platón al desierto de lo real</dc:title>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Ana Elena González Treviño</dc:creator>
+      <meta refines="#creator" property="file-as">Ana Elena González Treviño</meta>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">123-45-678-9-012-34</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Representación. Un dilema de la crítica, de la cueva de Platón al desierto de lo real / Ana Elena González Treviño</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Facultad de Filosofía y Letras, UNAM Universidad Nacional Autónoma de México Ciudad Universitaria, Delegación Coyoacán. C.P. 04510 México, Distrito Federal 123-45-678-9-012-342013</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2013</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+      <meta property="dcterms:modified"/>
+   </metadata>
+   <manifest>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.xhtml"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepage1.xhtml"
+            id="titlepage1"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.xhtml"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="toc.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.xhtml" media-type="application/xhtml+xml"/>
+      <item href="index-body.1_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section1"/>
+      <item href="index-body.1_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section2"/>
+      <item href="index-body.1_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section3"/>
+      <item href="index-body.1_div.3_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section4"/>
+      <item href="index-body.1_div.3_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section5"/>
+      <item href="index-body.1_div.3_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section6"/>
+      <item href="index-body.1_div.3_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section7"/>
+      <item href="index-body.1_div.3_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section8"/>
+      <item href="index-body.1_div.3_div.6.xhtml"
+            media-type="application/xhtml+xml"
+            id="section9"/>
+      <item href="index-body.1_div.3_div.7.xhtml"
+            media-type="application/xhtml+xml"
+            id="section10"/>
+      <item href="index-body.1_div.3_div.8.xhtml"
+            media-type="application/xhtml+xml"
+            id="section11"/>
+      <item href="index-body.1_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section12"/>
+      <item href="index-body.1_div.4_div.1.xhtml"
+            media-type="application/xhtml+xml"
+            id="section13"/>
+      <item href="index-body.1_div.4_div.2.xhtml"
+            media-type="application/xhtml+xml"
+            id="section14"/>
+      <item href="index-body.1_div.4_div.3.xhtml"
+            media-type="application/xhtml+xml"
+            id="section15"/>
+      <item href="index-body.1_div.4_div.4.xhtml"
+            media-type="application/xhtml+xml"
+            id="section16"/>
+      <item href="index-body.1_div.4_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section17"/>
+      <item href="index-body.1_div.4_div.6.xhtml"
+            media-type="application/xhtml+xml"
+            id="section18"/>
+      <item href="index-body.1_div.4_div.7.xhtml"
+            media-type="application/xhtml+xml"
+            id="section19"/>
+      <item href="index-body.1_div.5.xhtml"
+            media-type="application/xhtml+xml"
+            id="section20"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="titlepage1" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section3" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section9" linear="yes"/>
+      <itemref idref="section10" linear="yes"/>
+      <itemref idref="section11" linear="yes"/>
+      <itemref idref="section12" linear="yes"/>
+      <itemref idref="section13" linear="yes"/>
+      <itemref idref="section14" linear="yes"/>
+      <itemref idref="section15" linear="yes"/>
+      <itemref idref="section16" linear="yes"/>
+      <itemref idref="section17" linear="yes"/>
+      <itemref idref="section18" linear="yes"/>
+      <itemref idref="section19" linear="yes"/>
+      <itemref idref="section20" linear="yes"/>
+      <itemref idref="titlepageback" linear="no"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" title="Start" href="index.xhtml"/>
+      <reference type="text" href="index-body.1_div.1.xhtml" title="Agradecimientos"/>
+      <reference type="text" href="index-body.1_div.2.xhtml" title="Introducción"/>
+      <reference type="text" href="index-body.1_div.3.xhtml" title="I. HISTORIA"/>
+      <reference type="text" href="index-body.1_div.4.xhtml" title="II. VIGENCIA"/>
+      <reference type="text" href="index-body.1_div.5.xhtml" title="Bibliografía"/>
+      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+   </guide>
+</package>
