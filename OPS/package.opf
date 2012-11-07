@@ -127,7 +127,7 @@
       <itemref idref="titlepageback" linear="no"/>
    </spine>
    <guide>
-      <reference type="text" href="titlepage.xhtml" title="Cover"/>
+      <reference type="text" href="titlepage.xhtml" title="Portada"/>
       <reference type="text" title="Start" href="index.xhtml"/>
       <reference type="text" href="index-body.1_div.1.xhtml" title="Agradecimientos"/>
       <reference type="text" href="index-body.1_div.2.xhtml" title="Introducción"/>
