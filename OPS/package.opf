@@ -134,6 +134,6 @@
       <reference type="text" href="index-body.1_div.3.xhtml" title="I. HISTORIA"/>
       <reference type="text" href="index-body.1_div.4.xhtml" title="II. VIGENCIA"/>
       <reference type="text" href="index-body.1_div.5.xhtml" title="Bibliografía"/>
-      <reference href="titlepageback.xhtml" type="text" title="About this book"/>
+      <reference href="titlepageback.xhtml" type="text" title="Acerca de este libro"/>
    </guide>
 </package>

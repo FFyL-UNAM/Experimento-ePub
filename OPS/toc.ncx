@@ -53,7 +53,7 @@
       </navPoint>
       <navPoint id="navPoint-8" playOrder="8">
          <navLabel>
-            <text>[About this book]</text>
+            <text>[Acerca de este libro]</text>
          </navLabel>
          <content src="titlepageback.xhtml"/>
       </navPoint>
