@@ -17,7 +17,7 @@
       </navPoint>
       <navPoint id="navPoint-2" playOrder="2">
          <navLabel>
-            <text>[Title page]</text>
+            <text>Portadilla</text>
          </navLabel>
          <content src="titlepage1.xhtml"/>
       </navPoint>
