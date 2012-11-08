@@ -661,3 +661,9 @@ h1.maintitle {
 .teidiv p.noindent {
   text-indent: 0;
 }
+
+span.Emphasis {
+  display: block;
+  margin: 2em;
+  font-size: 0.9em
+}
