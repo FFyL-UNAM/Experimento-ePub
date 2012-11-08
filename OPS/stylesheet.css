@@ -662,8 +662,10 @@ h1.maintitle {
   text-indent: 0;
 }
 
-span.Emphasis {
+span.Emphasis,
+div.Quote {
   display: block;
-  margin: 2em;
-  font-size: 0.9em
+  margin: 2em 0 2em 2em;
+  font-size: 0.9em;
+  line-height: 1em;
 }
