@@ -1506,3 +1506,8 @@ svg {
 */
   overflow: hidden;
 }
+
+h1.maintitle {
+  margin-left: 0;
+  text-align: center;
+}
