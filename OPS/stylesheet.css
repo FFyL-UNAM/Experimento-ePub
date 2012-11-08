@@ -1507,6 +1507,10 @@ svg {
   overflow: hidden;
 }
 
+body {
+   font-family: "Minion Pro", Cambria, Tahoma, Geneva, Arial, Helvetica, sans-serif;
+}
+
 h1.maintitle {
   margin-left: 0;
   text-align: center;
