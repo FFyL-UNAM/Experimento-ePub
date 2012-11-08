@@ -627,13 +627,14 @@ body.portada {
   background-color: beige;
 }
 body.portada h1.titlebook {
-  font-size: 1.5em;
+  font-size: 1.4em;
+  margin: 0 0 60pt 0;
 }
 body.portada h2.authorbook {
   font-size: 1.2em;
+  margin: 0 0 30pt 0;
 }
 body.portada .editorial {
-  margin-top: 25%;
 }
 
 body {
