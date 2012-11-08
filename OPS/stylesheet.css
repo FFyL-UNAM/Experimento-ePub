@@ -622,8 +622,22 @@ span.numberParagraph {
 /* ffyl.css (secondary style)
 ----------------------------------------------------------------------------------------------------*/
 
+/* portada */
+body.portada {
+  background-color: beige;
+}
+body.portada h1.titlebook {
+  font-size: 1.5em;
+}
+body.portada h2.authorbook {
+  font-size: 1.2em;
+}
+body.portada .editorial {
+  margin-top: 25%;
+}
+
 body {
-   font-family: "Minion Pro", Cambria, Tahoma, Geneva, Arial, Helvetica, sans-serif;
+  font-family: "Minion Pro", Cambria, Tahoma, Geneva, Arial, Helvetica, sans-serif;
 }
 
 h1.maintitle {
