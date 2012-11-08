@@ -622,25 +622,31 @@ span.numberParagraph {
 /* ffyl.css (secondary style)
 ----------------------------------------------------------------------------------------------------*/
 
-/* portada */
-body.portada {
-  background-color: beige;
-}
-body.portada h1.titlebook {
-  font-size: 1.4em;
-  margin: 0 0 60pt 0;
-}
-body.portada h2.authorbook {
-  font-size: 1.2em;
-  margin: 0 0 30pt 0;
-}
-body.portada .editorial {
-}
-
+/* general */
 body {
   font-family: "Minion Pro", Cambria, Tahoma, Geneva, Arial, Helvetica, sans-serif;
 }
 
+/* portada */
+body.portada {}
+h1.titlebook {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 0 0 90pt 0;
+  padding: 15px;
+  background: #222222;
+  color: #FFFFFF;
+}
+h2.authorbook {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0 0 30pt 0;
+}
+p.editorial {
+  font-size: 0.8em;
+}
+
+/* títulos */
 h1.maintitle {
   font-size: 1.2em;
   margin-left: 0;
