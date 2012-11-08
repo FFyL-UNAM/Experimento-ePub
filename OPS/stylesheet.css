@@ -652,3 +652,11 @@ h1.maintitle {
   margin-left: 0;
   text-align: center;
 }
+
+/* párrafos */
+.teidiv div.p {
+  text-indent: 1em;
+}
+.teidiv .noindent {
+  text-indent: 0;
+}
