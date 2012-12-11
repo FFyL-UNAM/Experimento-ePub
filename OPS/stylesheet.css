@@ -640,9 +640,9 @@ h1.titlebook {
   color: #FFFFFF;
 }
 h2.authorbook {
-  font-size: 1em;
+  font-size: 0.9em;
   font-weight: normal;
-  margin: 0 0 30pt 0;
+  margin: 12pt 0 30pt 0; 
 }
 p.editorial {
   font-size: 0.8em;
