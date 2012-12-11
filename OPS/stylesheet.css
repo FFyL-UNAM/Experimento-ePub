@@ -628,7 +628,9 @@ body {
 }
 
 /* portada */
-body.portada {}
+body.portada {line-height: 1.2em;
+}
+
 h1.titlebook {
   font-size: 1.2em;
   font-weight: normal;
